@@ -1,7 +1,7 @@
-<script>
-    import Subtitle from '../components/Subtitle.svelte'
-    import Contact from '../components/contact.svelte'
-    import Title from '../components/Title.svelte'
+<script lang="ts">
+    import Contact from '#lib/Contact.svelte'
+    import Subtitle from '#lib/Subtitle.svelte'
+    import Title from '#lib/Title.svelte'
 </script>
 
 <svelte:head>
