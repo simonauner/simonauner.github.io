@@ -10,7 +10,7 @@
 
 <main class="main">
     <div>
-        <Title>www.auner.se</Title>
+        <Title>auner.se</Title>
         <Subtitle>Simon Aunér</Subtitle>
         <Contact />
     </div>
