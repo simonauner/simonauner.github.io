@@ -1,0 +1,19 @@
+static/CNAME
+  s_4ec45800761704::t_511ed334378e64 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8176c4328333f8ca927ae38a38e6d9f761bff616",
+  "prompts": {},
+  "sessions": {
+    "s_4ec45800761704": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4400ebfd-20c3-4f31-8778-9fd9a84c3731",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Simon Aunér <simonauner@gmail.com>"
+    }
+  }
+}
