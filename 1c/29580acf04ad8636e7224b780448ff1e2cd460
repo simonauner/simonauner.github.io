@@ -1,0 +1,19 @@
+src/routes/+page.svelte
+  s_6449d1820b47fa::t_ed77a49e2c2e86 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1c29580acf04ad8636e7224b780448ff1e2cd460",
+  "prompts": {},
+  "sessions": {
+    "s_6449d1820b47fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0a0d8a2-36a4-4a4b-95f9-dc8bd8aba5a8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Simon Aunér <simonauner@gmail.com>"
+    }
+  }
+}
